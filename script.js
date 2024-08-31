@@ -13,7 +13,7 @@ let particles = [];
 content.appendChild(app.view);
 app.stage.addChild(container);
 
-loader.add("img", "https://i.ibb.co/jJ4s8sx/7915290878-13f6879a54-c.jpg");
+loader.add("img", "https://media.discordapp.net/attachments/1249904363590254696/1279285390418907278/lowreshighcon4.png?ex=66d3e2dd&is=66d2915d&hm=2f2f322c86ee969ed4f7edb724a0519661a52a1559e5162f511bf0a5f7f6a32f&=&format=webp&quality=lossless&width=1176&height=1176");
 
 class Particle {
   constructor(x, y, size, texture) {
